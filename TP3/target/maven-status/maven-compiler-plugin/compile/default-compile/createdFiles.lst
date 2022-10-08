@@ -1,0 +1,11 @@
+com\app\metier\Utilisateur.class
+com\app\web\ServletModification.class
+com\app\web\ServletAjout.class
+com\app\web\ServletLogout.class
+com\app\web\ServletAffichage.class
+com\app\dao\Utilitaire.class
+com\app\metier\GestUsers.class
+com\app\dao\GestUsersDAO.class
+com\app\web\ServletSuppression.class
+com\app\web\ServletLogin.class
+com\app\web\Authentification.class
